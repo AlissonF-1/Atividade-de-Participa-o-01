@@ -1,2 +1,2 @@
 # Atividade-de-Participaçao-01
-Exercícios de PLN 
+Exercícios de PLN-Python
