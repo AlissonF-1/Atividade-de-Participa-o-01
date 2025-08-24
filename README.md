@@ -1,2 +1,2 @@
-# Atividade-de-Participação-01
+# Atividade-de-Participaçao-01
 Exercícios de PLN 
